@@ -5,3 +5,6 @@ https://www.hackerrank.com/challenges/solve-me-first
 
 ##### Simple Array Sum
 https://www.hackerrank.com/challenges/simple-array-sum 
+
+##### Compare the Triplets
+https://www.hackerrank.com/challenges/compare-the-triplets
