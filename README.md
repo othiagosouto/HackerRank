@@ -11,3 +11,6 @@ https://www.hackerrank.com/challenges/compare-the-triplets
 
 ##### A Very Big Sum
 https://www.hackerrank.com/challenges/a-very-big-sum
+
+#### Diagonal Difference
+https://www.hackerrank.com/challenges/diagonal-difference
