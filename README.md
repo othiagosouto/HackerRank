@@ -17,3 +17,9 @@ https://www.hackerrank.com/challenges/diagonal-difference
 
 #### Plus Minus
 https://www.hackerrank.com/challenges/plus-minus
+
+#### Plus Minus
+https://www.hackerrank.com/challenges/staircase
+
+#### Staircase 
+https://www.hackerrank.com/challenges/staircase

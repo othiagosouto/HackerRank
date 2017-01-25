@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class Solution {
 
     private static void printValues(int positiveCount, int negativesCount, int neutralCount, int n) {
-
-
         System.out.println(calculateFraction(n, positiveCount));
         System.out.println(calculateFraction(n, negativesCount));
         System.out.println(calculateFraction(n, neutralCount));
