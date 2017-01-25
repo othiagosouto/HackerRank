@@ -14,3 +14,6 @@ https://www.hackerrank.com/challenges/a-very-big-sum
 
 #### Diagonal Difference
 https://www.hackerrank.com/challenges/diagonal-difference
+
+#### Plus Minus
+https://www.hackerrank.com/challenges/plus-minus
