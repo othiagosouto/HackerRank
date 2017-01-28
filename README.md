@@ -23,3 +23,6 @@ https://www.hackerrank.com/challenges/staircase
 
 #### Staircase 
 https://www.hackerrank.com/challenges/staircase
+
+#### Time Conversion
+https://www.hackerrank.com/challenges/time-conversion
