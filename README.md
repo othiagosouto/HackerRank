@@ -26,3 +26,7 @@ https://www.hackerrank.com/challenges/staircase
 
 #### Time Conversion
 https://www.hackerrank.com/challenges/time-conversion
+
+#### Circular Array Rotation
+https://www.hackerrank.com/challenges/circular-array-rotation
+
